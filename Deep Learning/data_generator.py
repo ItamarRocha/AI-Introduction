@@ -69,9 +69,4 @@ def get_data(size=500, train_test_split=0.2):
     data_train = np.array(data_train)
     data_test = np.array(data_test)
 
-    X_train = data_train[:,[0,1]]
-    y_train = data_train[:,2]
-    X_test = data_test[:,[0,1]]
-    y_test = data_test[:,2]
-    
-    return (X_train, X_test, y_train, y_test)
+    return data_train, data_test
