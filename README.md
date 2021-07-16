@@ -7,8 +7,8 @@ Este repositório contém códigos e recursos para introdução à inteligência
 ## Contents
 - [Setup](#Setup)
 - [Iniciando](#Iniciando)
-- [Introdução ao Deep Learning](#DeepLearning)
-- [Introdução ao Machine Learning](#MachineLearning)
+- [Introdução ao Deep Learning](#Deep%20Learning)
+- [Introdução ao Machine Learning](#Machine%20Learning)
 - [Materiais](#Materiais)
 - [License](#License)
 
@@ -22,7 +22,10 @@ Para rodar os notebooks é só clicar no botão do colab disponível em cada um 
 
 ## Deep Learning
 
+O notebook pode ser acessado nesse [link](https://github.com/ItamarRocha/AI-Introduction/blob/main/Deep%20Learning/Deep%20Learning%20com%20Pytorch.ipynb).
 ## Machine Learning
+
+O notebook pode ser acessado nesse [link](https://github.com/ItamarRocha/AI-Introduction/blob/main/Machine%20Learning/Machine%20Learning%20com%20Pycaret.ipynb).
 
 ## Materiais
 
@@ -74,6 +77,8 @@ Aqui vou deixar minha sugestão de como e por onde começar.
 3. Deep Learning with Python or Pytorch
 4. [Tensorflow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) 🔥🔥
 5. Mathematics for Machine Learning - Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong 🔥🔥🔥
+
+E o principal, praticar bastante. Só aprende quem coda :P.
 
 ## License
 
