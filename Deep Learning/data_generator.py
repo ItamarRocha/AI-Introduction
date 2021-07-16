@@ -66,7 +66,12 @@ def get_data(size=500, train_test_split=0.2):
         data_train.extend(generate_edges(amount_train,quadrant))
         data_test.extend(generate_edges(amount_test,quadrant))
 
-    data_train = np.array(data_train)
-    data_test = np.array(data_test)
+    data_train = np.array(data_train, dtype=np.float32)
+    data_test = np.array(data_test, dtype=np.float32)
 
-    return data_train, data_test
+    X_train = data_train[:,[0,1]]
+    y_train = data_train[:,2]
+    X_test = data_test[:,[0,1]]
+    y_test = data_test[:,2]
+
+    return X_train, X_test, y_train, y_test
