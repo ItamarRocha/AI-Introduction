@@ -4,6 +4,8 @@
 
 Este repositório contém códigos e recursos para introdução à inteligência artificial. Caso tenha alguma sugestão de material para ser adicionado ou tenha interesse em contribuir com o repositório, será bem-vindo.
 
+Os slides podem ser acessados nesse [link](https://docs.google.com/presentation/d/1rGfIksTIR3l4tIhTRnaDrceq6DL7yeviLwoGArWeLF8/edit?usp=sharing).
+
 ## Contents
 - [Setup](#Setup)
 - [Iniciando](#Iniciando)
