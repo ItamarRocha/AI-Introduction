@@ -40,11 +40,12 @@ Nessa seção estarão dispostos materiais de estudo e aprofundamento na área, 
 * RoadMap (minha indicação e opinião pessoal)
 
 Os 🔥 indicam o nível de dificuldade/aprofundamento dos materiais.
-🔥 - Top pra começar
-🔥🔥 - Tranquilo
-🔥🔥🔥 - Intermediário
-🔥🔥🔥🔥 - Precisa já ter uma noção boa
-🔥🔥🔥🔥🔥 - Bom já ter um aprofundamento na área
+
+🔥 - Top pra começar  
+🔥🔥 - Tranquilo  
+🔥🔥🔥 - Intermediário  
+🔥🔥🔥🔥 - Precisa já ter uma noção boa  
+🔥🔥🔥🔥🔥 - Bom já ter um aprofundamento na área  
 
 ### Livros
 
