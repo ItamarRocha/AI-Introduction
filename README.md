@@ -61,6 +61,7 @@ Seguem alguns bons livros nas áreas de Machine Learning e Deep Learning:
 * [Tensorflow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) 🔥🔥
 * [Intro to Deep Learning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) 🔥🔥
 * [Intro to tensorflow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) 🔥🔥
+* [Introduction to Deep Learning & Neural Networks](https://www.educative.io/courses/intro-deep-learning) 🔥🔥
 
 ### Filmes
 
