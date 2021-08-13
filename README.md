@@ -2,13 +2,15 @@
 
 # AI-Introduction
 
-Este repositório contém códigos e recursos para introdução à inteligência artificial.
+Este repositório contém códigos e recursos para introdução à inteligência artificial. Caso tenha alguma sugestão de material para ser adicionado ou tenha interesse em contribuir com o repositório, será bem-vindo.
+
+Os slides podem ser acessados nesse [link](https://docs.google.com/presentation/d/1rGfIksTIR3l4tIhTRnaDrceq6DL7yeviLwoGArWeLF8/edit?usp=sharing).
 
 ## Contents
 - [Setup](#Setup)
 - [Iniciando](#Iniciando)
-- [Introdução ao Deep Learning](#Deep%20Learning)
-- [Introdução ao Machine Learning](#Machine%20Learning)
+- [Introdução ao Machine Learning](#Machine-Learning)
+- [Introdução ao Deep Learning](#Deep-Learning)
 - [Materiais](#Materiais)
 - [License](#License)
 
@@ -20,12 +22,13 @@ Para rodar os notebooks fornecidos não é necessário a instalação prévia de
 
 Para rodar os notebooks é só clicar no botão do colab disponível em cada um deles.
 
-## Deep Learning
-
-O notebook pode ser acessado nesse [link](https://github.com/ItamarRocha/AI-Introduction/blob/main/Deep%20Learning/Deep%20Learning%20com%20Pytorch.ipynb).
 ## Machine Learning
 
 O notebook pode ser acessado nesse [link](https://github.com/ItamarRocha/AI-Introduction/blob/main/Machine%20Learning/Machine%20Learning%20com%20Pycaret.ipynb).
+
+## Deep Learning
+
+O notebook pode ser acessado nesse [link](https://github.com/ItamarRocha/AI-Introduction/blob/main/Deep%20Learning/Deep%20Learning%20com%20Pytorch.ipynb).
 
 ## Materiais
 
@@ -37,11 +40,12 @@ Nessa seção estarão dispostos materiais de estudo e aprofundamento na área, 
 * RoadMap (minha indicação e opinião pessoal)
 
 Os 🔥 indicam o nível de dificuldade/aprofundamento dos materiais.
-🔥 - Top pra começar
-🔥🔥 - Tranquilo
-🔥🔥🔥 - Intermediário
-🔥🔥🔥🔥 - Precisa já ter uma noção boa
-🔥🔥🔥🔥🔥 - Bom já ter um aprofundamento na área
+
+🔥 - Top pra começar  
+🔥🔥 - Tranquilo  
+🔥🔥🔥 - Intermediário  
+🔥🔥🔥🔥 - Precisa já ter uma noção boa  
+🔥🔥🔥🔥🔥 - Bom já ter um aprofundamento na área  
 
 ### Livros
 
